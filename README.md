@@ -1,9 +1,10 @@
 # Django Perms
+This is an old version of django-perms that is still used by PPMS.
 
 ## Install
 
-`pip install django-perms`
-
+Add this line to your requirements.txt
+`-e git://github.com/zhuitrec/django-perms-master.git#egg=django_perms-master`
 Add 'permissions' to your installed apps.
 
 ## Usage
