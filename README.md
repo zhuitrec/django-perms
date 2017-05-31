@@ -4,7 +4,7 @@ This is an old version of https://github.com/PSU-OIT-ARC/django-perms that is st
 ## Install
 
 Add this line to your requirements.txt
-`-e git://github.com/zhuitrec/django-perms-master.git#egg=django_perms-master`
+`-e git://github.com/zhuitrec/django-perms.git#egg=django_perms-master`
 
 Add 'permissions' to your installed apps.
 
