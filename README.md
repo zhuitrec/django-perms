@@ -1,5 +1,5 @@
 # Django Perms
-This is an old version of django-perms that is still used by PPMS.
+This is an old version of https://github.com/PSU-OIT-ARC/django-perms that is still used by PPMS.
 
 ## Install
 
